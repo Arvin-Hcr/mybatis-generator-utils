@@ -1,0 +1,4 @@
+com\imooc\my\mapper\MyMapper.class
+com\imooc\pojo\Carousel.class
+com\imooc\mapper\CarouselMapper.class
+com\imooc\mybatis\utils\GeneratorDisplay.class
